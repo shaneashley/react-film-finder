@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-film-finder/static/css/main.4b06f1e2.chunk.css",
+    "main.js": "/react-film-finder/static/js/main.0b34f289.chunk.js",
+    "main.js.map": "/react-film-finder/static/js/main.0b34f289.chunk.js.map",
+    "runtime-main.js": "/react-film-finder/static/js/runtime-main.8562b9f9.js",
+    "runtime-main.js.map": "/react-film-finder/static/js/runtime-main.8562b9f9.js.map",
+    "static/js/2.43521512.chunk.js": "/react-film-finder/static/js/2.43521512.chunk.js",
+    "static/js/2.43521512.chunk.js.map": "/react-film-finder/static/js/2.43521512.chunk.js.map",
+    "index.html": "/react-film-finder/index.html",
+    "static/css/main.4b06f1e2.chunk.css.map": "/react-film-finder/static/css/main.4b06f1e2.chunk.css.map",
+    "static/js/2.43521512.chunk.js.LICENSE.txt": "/react-film-finder/static/js/2.43521512.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8562b9f9.js",
+    "static/js/2.43521512.chunk.js",
+    "static/css/main.4b06f1e2.chunk.css",
+    "static/js/main.0b34f289.chunk.js"
+  ]
+}
